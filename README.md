@@ -7,6 +7,3 @@ Desenvolvimento do jogo Space Invaders usando o pygame
 
 - ``Python``
 - ``Pygame``
-
-## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/SamuelLima0610/API-REST-Jogo-Trimemoria).
